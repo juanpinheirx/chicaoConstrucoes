@@ -8,7 +8,7 @@
 .carousel img {
   width: 50rem;
   padding: 1rem;
-  border-radius: 2rem;
+  padding-left: 0.5em;
 }
 
 @media screen and (max-width: 768px) {
